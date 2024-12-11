@@ -1,10 +1,11 @@
-# Now
-- Finish writing main in main.go
-- write tests for day2
-- I think my current solution fails in levels[0] - levels[1] > 3
-- can't be main error tho; getting false *negatives*?
-- do we want to ignore input files? what's the license here anyway?
+# My Solutions to Advent of Code 2024
 
-# Later
+These are my solutions for Advent of Code, an annual set of Christmas themed  
+coding challenges.
 
-# Never
+# TODO
+
+- solve day 02
+    - write tests
+    - I think my current solution fails in levels[0] - levels[1] > 3;
+        can't be main error though; getting false *negatives*?
