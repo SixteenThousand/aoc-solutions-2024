@@ -1,0 +1,8 @@
+# build artifact
+adv24
+
+# scratchpad
+scratch/
+
+# files from the Advent of Code website
+*-input
